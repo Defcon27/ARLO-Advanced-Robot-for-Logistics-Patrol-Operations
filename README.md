@@ -36,3 +36,16 @@ HARDWARE:
 * Temperature Sensor
 * Breadboard
 * Portable Power Bank
+
+### ALRO
+<img src='/website/finalarlo.jpg' width=50% height=50%/>
+<img src='/website/arlo_art__.jpg' width=50% height=50%/>
+
+<img src='robot_src/media/IMG_20200603_090027.jpg' width=50% height=50%/>
+<img src='robot_src/media/IMG_20200604_005411.jpg' width=50% height=50%/>
+<img src='robot_src/media/app%20controls.jpg' width=50% height=50%/>
+
+
+## PATROL SYSTEM
+<img src='patrol_src/non-violation.gif' width=50% height=50%/>
+<img src='patrol_src/violation.gif' width=50% height=50%/>
