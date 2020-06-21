@@ -88,9 +88,9 @@ def ImageProcess(image):
             
 create = None
 frameno = 0
-filename = "videos/video_6.mp4"
+filename = "videos/patrol.mp4"
 yolo = "yolo-coco/"
-opname = "output_videos/output_of_" + filename.split('/')[1][:-4] + '.mp4'
+opname = "output_of_" + filename.split('/')[1][:-4] + '.mp4'
 cap = cv2.VideoCapture(filename)
 
 time1 = time.time()
