@@ -1,5 +1,10 @@
 # ARLO-Advanced-Robot-for-Logistics-Patrol-Operations
+
+![Built with](https://img.shields.io/badge/BUILT%20WITH-RASPBERRY%20PI-critical?style=for-the-badge&logo=raspberry-pi)
+
 ARLO is a robot that can be deployed in COVID-19 containment zones for delivery of essential supplies like sanitizers, masks improving safety in logistics and also surveillance of the area.
+
+
 
 ## PROBLEM IT SOLVES
 The main problem we aim to solve is the safety concern in point to point delivery system in pandemics situation like we are facing right now. So, the main objective of our project is to develop a remote prototype that can be used to deliver small payloads of essential supplies in severe effected areas of COVID-19 called containment zones where in-person delivery is restricted. ARLO is capable of carrying and delivering small essential payloads like medical supplies with ease without the need of any contact of personnel (zero contact delivery). 
