@@ -1,5 +1,6 @@
 # ARLO-Advanced-Robot-for-Logistics-Patrol-Operations
 
+
 ![Built with](https://img.shields.io/badge/BUILT%20WITH-RASPBERRY%20PI-critical?style=for-the-badge&logo=raspberry-pi)
 
 
